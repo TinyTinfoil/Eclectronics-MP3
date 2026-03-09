@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Eclectronics")(type "KiCad")(uri "${KIPRJMOD}/../Eclectronics/Eclectronics.kicad_sym")(options "")(descr ""))
+  (lib (name "490107670612")(type "KiCad")(uri "C:/Users/veswaranandam.MILKYWAY/OneDrive - Olin College of Engineering/Documents/Spring 2026/Eclectronics/mp3/mp3/Skedd-connector/490107670612.kicad_sym")(options "")(descr ""))
+)
